@@ -1,6 +1,6 @@
 site_name: Airbnb Project - Documentation
-repo_url: https://github.com/codehub-learn/pfizer-dsmasterclass-2022-team1
-site_url: https://imanousar.github.io/test/
+repo_url: https://github.com/imanousar/airbnb-price-predictor
+site_url: https://imanousar.github.io/airbnb-price-predictor/
 site_description: An app for predicting Airbnb prices in Athens.
 site_author: Giannis Manousaridis, Jenny Cobanaj
 use_directory_urls: false
