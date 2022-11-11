@@ -4,6 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.7.0-blue.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
+
 ## Table of contents
 
 - [Introduction](#introduction)
@@ -24,7 +25,7 @@
 
 ## Documentation
 
-You can check the documentaion of the app [here](https://imanousar.github.io/test/).
+You can check the documentaion of the app [here](https://imanousar.github.io/airbnb-price-predictor/) and the deployed app [here](https://airbnb-price-prediction-project.netlify.app/).
 
 ## Introduction
 
